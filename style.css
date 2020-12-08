@@ -1,0 +1,17 @@
+h1 {
+  color: lime;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+  color: lime;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h3 {
+  color: lime;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 50px;
+  text-align: center;
+  background-color: red;
+
+}
